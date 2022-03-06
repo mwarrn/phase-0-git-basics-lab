@@ -1,0 +1,3 @@
+[submodule "my-repository"]
+	path = my-repository
+	url = https://github.com/mwarrn/my-repository-example
